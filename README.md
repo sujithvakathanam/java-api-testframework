@@ -1,7 +1,7 @@
 # java-api-testframework
 Java-API-TestFramework
 
-This is a Backend API Test framework created in JAVA to test the API endoints
+This is a Backend API Test framework created in JAVA to test the API endoints.
 Apache HTTP, Cucumber tools/ libraries are used to create this test framework
 
 API Endpoints:
