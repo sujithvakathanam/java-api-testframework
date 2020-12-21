@@ -1,1 +1,4 @@
 city.list.json/city.list.json
+/java-api-testframework-tdd/target/
+/target/
+/.idea/
